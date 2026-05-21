@@ -17,6 +17,7 @@
   <a href="#"><img src="https://img.shields.io/badge/dependencies-ZERO-blue?style=flat-square" alt="Zero Deps"></a>
   <a href="#"><img src="https://img.shields.io/badge/platform-Windows%2010%2F11%20%7C%20Server-orange?style=flat-square" alt="Platform"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/license-MIT-yellow?style=flat-square" alt="License"></a>
+  <a href="#"><img src="https://img.shields.io/badge/status-stable-brightgreen?style=flat-square" alt="Stable"></a>
 </p>
 
 ---
